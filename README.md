@@ -1,5 +1,5 @@
 # icedtea
-Create browser to access old server IPMI interface
+Run browser to access old server IPMI interface
 
 Sometimes you need to access some IPMI/ILO (remote management) for servers, that are very old and they are using Java Web Start (.jnlp) technology to access web based KVM interface. 
 
