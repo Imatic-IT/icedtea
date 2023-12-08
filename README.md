@@ -10,3 +10,5 @@ You can build it by ./build.sh and run it with ./run.sh
 It was tested on Debian linux with Xserver.
 
 You need to allow popups in browser and select "Icedtea" plugin for opening .jnlp files.
+
+You can place files into volume/ folder to be accessed from browser (for example if you want to use virtual media functionality), files needs to be readable for user inside container (UID 1000)
